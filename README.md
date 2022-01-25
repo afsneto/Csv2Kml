@@ -1,2 +1,4 @@
 # Csv2Kml
- Convert a csv table to a kml
+Convert a .csv with UTM coordinates to a .kml file.
+
+
